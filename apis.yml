@@ -20,6 +20,8 @@ modified: '2026-05-03'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/trinity-industries
   - type: Website
     url: https://www.trin.net
     name: Trinity Industries
