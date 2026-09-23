@@ -1,7 +1,9 @@
 ---
 title: Leigh Anne Mann - Vice President of Investor Relations at ...
 url: https://www.linkedin.com/in/leighannealford
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Trinity Industries" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Companies winning with AI built the data layer first
 url: https://www.databricks.com/blog/companies-winning-ai-built-data-layer-first
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Trinity Industries" press release artificial intelligence'
 position: 2
 source: serpapi-google

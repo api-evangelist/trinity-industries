@@ -1,7 +1,9 @@
 ---
 title: Trinity Industries Q1 2026 earnings and outlook - TRN
 url: https://www.stocktitan.net/sec-filings/TRN/10-q-trinity-industries-inc-quarterly-earnings-report-6eae20c2d095.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Trinity Industries" press release artificial intelligence'
 position: 3
 source: serpapi-google
